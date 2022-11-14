@@ -7,6 +7,7 @@ function App() {
 		<QueryClientProvider client={queryClient}>
 			<div className="App">
 				<Main />
+				<div></div>
 			</div>
 		</QueryClientProvider>
 	);
